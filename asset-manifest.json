@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/code-portfolio-2020/static/css/main.80bb1a0b.chunk.css",
-    "main.js": "/code-portfolio-2020/static/js/main.11d414cf.chunk.js",
-    "main.js.map": "/code-portfolio-2020/static/js/main.11d414cf.chunk.js.map",
+    "main.css": "/code-portfolio-2020/static/css/main.72333d72.chunk.css",
+    "main.js": "/code-portfolio-2020/static/js/main.997c49f8.chunk.js",
+    "main.js.map": "/code-portfolio-2020/static/js/main.997c49f8.chunk.js.map",
     "runtime-main.js": "/code-portfolio-2020/static/js/runtime-main.fb152934.js",
     "runtime-main.js.map": "/code-portfolio-2020/static/js/runtime-main.fb152934.js.map",
     "static/css/2.69121389.chunk.css": "/code-portfolio-2020/static/css/2.69121389.chunk.css",
-    "static/js/2.0805487f.chunk.js": "/code-portfolio-2020/static/js/2.0805487f.chunk.js",
-    "static/js/2.0805487f.chunk.js.map": "/code-portfolio-2020/static/js/2.0805487f.chunk.js.map",
+    "static/js/2.e8125dbe.chunk.js": "/code-portfolio-2020/static/js/2.e8125dbe.chunk.js",
+    "static/js/2.e8125dbe.chunk.js.map": "/code-portfolio-2020/static/js/2.e8125dbe.chunk.js.map",
     "index.html": "/code-portfolio-2020/index.html",
-    "precache-manifest.1d19792ee2f5e33adba8de8643223c3f.js": "/code-portfolio-2020/precache-manifest.1d19792ee2f5e33adba8de8643223c3f.js",
+    "precache-manifest.fd81442e12ba6eb2b2a82802642d8524.js": "/code-portfolio-2020/precache-manifest.fd81442e12ba6eb2b2a82802642d8524.js",
     "service-worker.js": "/code-portfolio-2020/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/code-portfolio-2020/static/css/2.69121389.chunk.css.map",
-    "static/css/main.80bb1a0b.chunk.css.map": "/code-portfolio-2020/static/css/main.80bb1a0b.chunk.css.map",
-    "static/js/2.0805487f.chunk.js.LICENSE.txt": "/code-portfolio-2020/static/js/2.0805487f.chunk.js.LICENSE.txt"
+    "static/css/main.72333d72.chunk.css.map": "/code-portfolio-2020/static/css/main.72333d72.chunk.css.map",
+    "static/js/2.e8125dbe.chunk.js.LICENSE.txt": "/code-portfolio-2020/static/js/2.e8125dbe.chunk.js.LICENSE.txt",
+    "static/media/giffinder.png": "/code-portfolio-2020/static/media/giffinder.aafc810c.png",
+    "static/media/goodolmemos.png": "/code-portfolio-2020/static/media/goodolmemos.80c40b25.png",
+    "static/media/mvpproject.png": "/code-portfolio-2020/static/media/mvpproject.b59d4aa3.png",
+    "static/media/playlist.png": "/code-portfolio-2020/static/media/playlist.4ca1a22f.png",
+    "static/media/rps.png": "/code-portfolio-2020/static/media/rps.b13bca3a.png",
+    "static/media/tfotpe.png": "/code-portfolio-2020/static/media/tfotpe.41cb5ba9.png",
+    "static/media/toastermaze.png": "/code-portfolio-2020/static/media/toastermaze.5a5d5b0c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fb152934.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.0805487f.chunk.js",
-    "static/css/main.80bb1a0b.chunk.css",
-    "static/js/main.11d414cf.chunk.js"
+    "static/js/2.e8125dbe.chunk.js",
+    "static/css/main.72333d72.chunk.css",
+    "static/js/main.997c49f8.chunk.js"
   ]
 }
