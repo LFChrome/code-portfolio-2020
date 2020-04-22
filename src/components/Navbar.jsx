@@ -7,6 +7,9 @@ export class Navbar extends Component {
         <span className="navbar-brand">
           Wei Wu Lu's Portfolio
         </span>
+        <span className='text-right'>
+          powered by React.js
+        </span>
       </nav>
     )
   }

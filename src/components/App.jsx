@@ -9,10 +9,16 @@ import '../App.css';
 export class App extends Component {
   render() {
     return (
-      <div className='container'>
+      <div>
         <Navbar/>
-        <Gallery />
-        <About />
+        <hr/>
+        <div className='container'>
+          <About />
+          <h1>
+            My Projects:
+          </h1>
+          <Gallery />
+        </div>
       </div>
     )
   }
