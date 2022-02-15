@@ -7,8 +7,8 @@ export class About extends Component {
         <div className='col-md-8'>
           <h1>About Me:</h1>
           <p>
-            Hello, my name is Wei Wu Lu. I am currently a freshman at University of California - Davis and planning to major
-            in Mathematics. Soon I will be submitting a petition to double major along with Computer Science.
+            Hello, my name is Wei Wu Lu. I am currently a third year at University of California - Davis and planning to major
+            in Mathematics. I plan on continuing Mathematics in Graduate School, but as a side I like to code.
           </p>
           <p>
             My favorite hobbies include playing videogames, playing board games and watching S.T.E.M. videos on YouTube.
